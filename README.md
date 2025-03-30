@@ -99,7 +99,7 @@ The game interacts with an EOS smart contract through the following actions:
 
 ## License
 
-[Add your license here]
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
 
 ## Contact
 
