@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/constants.ts","./src/main.tsx","./src/types.ts","./src/vite-env.d.ts","./src/components/errorboundary.tsx","./src/components/gameinfo.tsx","./src/components/guessform.tsx","./src/components/participantslist.tsx","./src/components/walletconnection.tsx","./src/utils/api.ts","./src/utils/storage.ts"],"version":"5.7.2"}
