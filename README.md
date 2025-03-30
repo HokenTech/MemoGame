@@ -22,7 +22,7 @@ A decentralized guessing game built on the EOS blockchain where players can subm
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/HokenTech/MemoGame.git
 cd eos-memo-game
 ```
 
